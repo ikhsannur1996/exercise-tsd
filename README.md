@@ -1,8 +1,8 @@
-**Exercise: Designing a Logistics App for 15-Minute Deliveries**
+# Exercise: Designing a Logistics App for 15-Minute Deliveries
 
 Duplicate the provided Google Spreadsheet and create a project plan using the given template. The plan should include an overview of the logistics app, defining its goals, business case, potential risks, and out-of-scope items. Include a technical design diagram showing components, connections, servers, and logical data flow. Detail technical specifications for servers and databases, access requirements, resource needs, assumptions, issues, concerns, and projected costs.
 
-## *Google Spreadsheet*: https://docs.google.com/spreadsheets/d/1hZEr4wboUB6YBe1-hmUS8YMqAbsEjswsG3Yvs7teb3M/edit?usp=sharing
+### *Google Spreadsheet*: https://docs.google.com/spreadsheets/d/1hZEr4wboUB6YBe1-hmUS8YMqAbsEjswsG3Yvs7teb3M/edit?usp=sharing
 
 You are tasked with creating a detailed project plan for a logistics app that ensures delivery within 15 minutes. Your plan should be comprehensive, addressing all aspects of the project as outlined in the template. The following sections and specific requirements should guide your Exercise:
 
