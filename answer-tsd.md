@@ -123,9 +123,6 @@ Traditional delivery services often face delays due to inefficient logistics and
 - **Functional Characteristics:** Manage relational data for orders, customers, and drivers.
 - **Expected Transaction Volume:** 20,000 transactions per day.
 
-**Server Requests:**
-- [Attach completed server request forms here]
-
 ### **8. ACCESS REQUIREMENTS**
 
 - **Simultaneous Access:** Up to 5,000 users.
@@ -196,9 +193,7 @@ Traditional delivery services often face delays due to inefficient logistics and
 
 **Marketing and Promotion Costs:**
 - **Initial Marketing Campaign:** $80,000.
-- **
-
-Ongoing Promotions:** $40,000 per year.
+- **Ongoing Promotions:** $40,000 per year.
 
 **Total Estimated Costs:**
 - **Year 1:** $1,090,000
